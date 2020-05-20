@@ -6,12 +6,12 @@
   <Name>OscillogramViewer</Name>
   <DisplayName>OscillogramViewer</DisplayName>
   <Description>OscillogramViewer client</Description>
-  <Version>1.0.1</Version>
+  <Version>1.0.2</Version>
   <ReleaseDate>2020-05-12</ReleaseDate>
   <SortingPriority>40</SortingPriority>
   <Checkable>false</Checkable>
-  <UpdateFile OS="Any" UncompressedSize="71993080" CompressedSize="17878502"/>
+  <UpdateFile OS="Any" UncompressedSize="71996664" CompressedSize="17880070"/>
   <DownloadableArchives>iconengines.7z,imageformats.7z,platforms.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>576eb4828aaab25d27024cf3337297d8a68bc76e</SHA1>
+  <SHA1>92e821673ffff88e69d4c6625d4ae1ee90de030b</SHA1>
  </PackageUpdate>
 </Updates>
